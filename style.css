@@ -1,0 +1,49 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2A2A2D;
+  height: 100vh;
+}
+
+h1 {
+ color: white;
+}
+
+.lead {
+ color: white;
+}
+
+#my-project-text {
+ color: white;
+}
+
+.navbar {
+ background-color: black !important;
+}
+
+.bg-primary {
+ background-color: black !important;
+}
+
+#projects {
+  background-color: #2A2A2D;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+li {
+ list-style: none;
+}
+
+.btn-primary {
+ background-color: #2A2A2D;
+}
+
+/* Media Query */
+
+@media (max-width: 576px) {
+ .btn-github {
+  width: 80%;
+ }
+}
